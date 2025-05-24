@@ -1,7 +1,7 @@
 # InformationGathering
 Information Gathering Techiques
-## Name: Shanmuga Raj.K
-## Reg no: 212223040192
+## Name: Vineela Shaik
+## Reg no: 212223040243
 # To perform information gathering techniques
 
 # AIM:
